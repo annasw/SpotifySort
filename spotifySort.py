@@ -110,36 +110,3 @@ f.close()
 # - save constantly / in between picks, so you don't have to do all x00 steps consecutively
 # - sort spotify playlist based on song rankings (no clue how you'd do this)
 # - 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
