@@ -6,7 +6,7 @@
 
 # my tastes are immaculate and if you disagree with them you're an idiot.
 
-# okay obviously just like make a list of your 50-however many favorite songs (or whatever i guess and read it in
+# okay obviously just like make a list of your 50-however many favorite songs (or whatever i guess) and read it in
 # or you can just do it with this exact list of against me! songs, which obviously you should
 # i strongly recommend that for each pairing you go listen to both songs in their entirety
 # this would have taken me... roughly... 927 minutes (which is what like 15 hours)
