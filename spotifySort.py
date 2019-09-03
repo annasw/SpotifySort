@@ -103,7 +103,7 @@ f.close()
 #
 # IDEAS FOR IMPROVEMENT:
 # - use Elo system to approximate ratings (and update with greater certainty),
-# 	so one inaccurate comparison (e.g. Norse Truth > What We Worked For) doesn't permanently fuck up your list
+# 	so one inaccurate comparison (e.g. Stop! > New Wave - Live) doesn't permanently fuck up your list
 # - pick a pivot randomly (less necessary if you think the great songs are pretty well distributed; more necessary for me)
 #	(i realize no one cares but of my final top 20, fully 9 were released on or before AM!'s 1st studio album)
 #	(although if we remove live songs (which, aside from new wave on 23LSA, we should), that goes down to... 8)
