@@ -1,0 +1,578 @@
+PS C:\Users\Jesse\python> python spotifySort.py
+Is I Still Love You Julie better than People Who Died? 1/True or 0/False.
+> 0
+Is What We Worked For better than People Who Died? 1/True or 0/False.
+> 0
+Is Burn better than People Who Died? 1/True or 0/False.
+> 0
+Is Jordan's First Choice better than People Who Died? 1/True or 0/False.
+> 0
+Is Those Anarcho Punks Are Mysterious better than People Who Died? 1/True or 0/False.
+> 0
+Is Reinventing Axl Rose better than People Who Died? 1/True or 0/False.
+> 1
+Is We Did It All for Don better than People Who Died? 1/True or 0/False.
+> 0
+Is Pints of Guinness Make You Strong better than People Who Died? 1/True or 0/False.
+> 1
+Is Untitled Bonus Track better than People Who Died? 1/True or 0/False.
+> 0
+Is We Laugh at Danger (And Break All the Rules) better than People Who Died? 1/True or 0/False.
+> 1
+Is Baby, I'm an Anarchist! better than People Who Died? 1/True or 0/False.
+> 0
+Is Walking is Still Honest better than People Who Died? 1/True or 0/False.
+> 1
+Is Sink, Florida, Sink better than People Who Died? 1/True or 0/False.
+> 0
+Is Cavalier Eternal better than People Who Died? 1/True or 0/False.
+> 0
+Is Miami better than People Who Died? 1/True or 0/False.
+> 0
+Is Pretty Girls (The Mover) better than People Who Died? 1/True or 0/False.
+> 0
+Is Up the Cuts better than People Who Died? 1/True or 0/False.
+> 0
+Is Thrash Unreal better than People Who Died? 1/True or 0/False.
+> 1
+Is White People for Peace better than People Who Died? 1/True or 0/False.
+> 0
+Is Stop! better than People Who Died? 1/True or 0/False.
+> 0
+Is Borne on the FM Waves of the Heart better than People Who Died? 1/True or 0/False.
+> 0
+Is The Ocean better than People Who Died? 1/True or 0/False.
+>
+Is The Ocean better than People Who Died? 1/True or 0/False.
+> 0
+Is White Crosses better than People Who Died? 1/True or 0/False.
+> 0
+Is I Was a Teenage Anarchist better than People Who Died? 1/True or 0/False.
+> 0
+Is Because of the Shame better than People Who Died? 1/True or 0/False.
+> 0
+Is Suffocation better than People Who Died? 1/True or 0/False.
+> 0
+Is We're Breaking Up better than People Who Died? 1/True or 0/False.
+> 0
+Is High Pressure Low better than People Who Died? 1/True or 0/False.
+> 0
+Is Ache With Me better than People Who Died? 1/True or 0/False.
+> 0
+Is Spanish Moss better than People Who Died? 1/True or 0/False.
+> 0
+Is Rapid Decompression better than People Who Died? 1/True or 0/False.
+> 0
+Is Bamboo Bones better than People Who Died? 1/True or 0/False.
+> 0
+Is Bitter Divisions better than People Who Died? 1/True or 0/False.
+> 0
+Is Transgender Dysphoria Blues better than People Who Died? 1/True or 0/False.
+> 0
+Is True Trans Soul Rebel better than People Who Died? 1/True or 0/False.
+> 0
+Is Unconditional Love better than People Who Died? 1/True or 0/False.
+> 0
+Is Drinking With the Jocks better than People Who Died? 1/True or 0/False.
+> 0
+Is Osama Bin Laden As the Crucified Christ better than People Who Died? 1/True or 0/False.
+> 0
+Is Fuckmylife666 better than People Who Died? 1/True or 0/False.
+> 0
+Is Dead Friend better than People Who Died? 1/True or 0/False.
+> 0
+Is Paralytic States better than People Who Died? 1/True or 0/False.
+> 0
+Is Black Me Out better than People Who Died? 1/True or 0/False.
+> 1
+Is Pints of Guinness Make You Strong - Live better than People Who Died? 1/True or 0/False.
+> 0
+Is New Wave - Live better than People Who Died? 1/True or 0/False.
+> 0
+Is Walking Is Still Honest - Live better than People Who Died? 1/True or 0/False.
+> 0
+Is Delicate, Petite & Other Things I'll Never Be better than People Who Died? 1/True or 0/False.
+> 0
+Is Haunting, Haunted, Haunts better than People Who Died? 1/True or 0/False.
+> 0
+Is Rebecca better than People Who Died? 1/True or 0/False.
+> 0
+Is Norse Truth better than People Who Died? 1/True or 0/False.
+> 0
+Is I Still Love You Julie better than Norse Truth? 1/True or 0/False.
+> 0
+Is What We Worked For better than Norse Truth? 1/True or 0/False.
+> 0
+Is Burn better than Norse Truth? 1/True or 0/False.
+> 0
+Is Jordan's First Choice better than Norse Truth? 1/True or 0/False.
+> 0
+Is Those Anarcho Punks Are Mysterious better than Norse Truth? 1/True or 0/False.
+> 0
+Is We Did It All for Don better than Norse Truth? 1/True or 0/False.
+> 0
+Is Untitled Bonus Track better than Norse Truth? 1/True or 0/False.
+> 0
+Is Baby, I'm an Anarchist! better than Norse Truth? 1/True or 0/False.
+> 0
+Is Sink, Florida, Sink better than Norse Truth? 1/True or 0/False.
+> 0
+Is Cavalier Eternal better than Norse Truth? 1/True or 0/False.
+> 0
+Is Miami better than Norse Truth? 1/True or 0/False.
+> 0
+Is Pretty Girls (The Mover) better than Norse Truth? 1/True or 0/False.
+> 0
+Is Up the Cuts better than Norse Truth? 1/True or 0/False.
+> 0
+Is White People for Peace better than Norse Truth? 1/True or 0/False.
+> 0
+Is Stop! better than Norse Truth? 1/True or 0/False.
+> 0
+Is Borne on the FM Waves of the Heart better than Norse Truth? 1/True or 0/False.
+> 0
+Is The Ocean better than Norse Truth? 1/True or 0/False.
+> 1
+Is White Crosses better than Norse Truth? 1/True or 0/False.
+> 0
+Is I Was a Teenage Anarchist better than Norse Truth? 1/True or 0/False.
+> 1
+Is Because of the Shame better than Norse Truth? 1/True or 0/False.
+> 0
+Is Suffocation better than Norse Truth? 1/True or 0/False.
+> 0
+Is We're Breaking Up better than Norse Truth? 1/True or 0/False.
+> 0
+Is High Pressure Low better than Norse Truth? 1/True or 0/False.
+> 0
+Is Ache With Me better than Norse Truth? 1/True or 0/False.
+> 0
+Is Spanish Moss better than Norse Truth? 1/True or 0/False.
+> 0
+Is Rapid Decompression better than Norse Truth? 1/True or 0/False.
+> 0
+Is Bamboo Bones better than Norse Truth? 1/True or 0/False.
+> 0
+Is Bitter Divisions better than Norse Truth? 1/True or 0/False.
+> 0
+Is Transgender Dysphoria Blues better than Norse Truth? 1/True or 0/False.
+> 0
+Is True Trans Soul Rebel better than Norse Truth? 1/True or 0/False.
+> 0
+Is Unconditional Love better than Norse Truth? 1/True or 0/False.
+> 0
+Is Drinking With the Jocks better than Norse Truth? 1/True or 0/False.
+> 0
+Is Osama Bin Laden As the Crucified Christ better than Norse Truth? 1/True or 0/False.
+> 0
+Is Fuckmylife666 better than Norse Truth? 1/True or 0/False.
+> 0
+Is Dead Friend better than Norse Truth? 1/True or 0/False.
+> 0
+Is Paralytic States better than Norse Truth? 1/True or 0/False.
+> 0
+Is Pints of Guinness Make You Strong - Live better than Norse Truth? 1/True or 0/False.
+> 1
+Is New Wave - Live better than Norse Truth? 1/True or 0/False.
+> 0
+Is Walking Is Still Honest - Live better than Norse Truth? 1/True or 0/False.
+> 1
+Is Delicate, Petite & Other Things I'll Never Be better than Norse Truth? 1/True or 0/False.
+> 0
+Is Haunting, Haunted, Haunts better than Norse Truth? 1/True or 0/False.
+> 0
+Is Rebecca better than Norse Truth? 1/True or 0/False.
+> 0
+Is I Still Love You Julie better than Rebecca? 1/True or 0/False.
+> 0
+Is What We Worked For better than Rebecca? 1/True or 0/False.
+> 0
+Is Burn better than Rebecca? 1/True or 0/False.
+> 0
+Is Jordan's First Choice better than Rebecca? 1/True or 0/False.
+> 0
+Is Those Anarcho Punks Are Mysterious better than Rebecca? 1/True or 0/False.
+> 0
+Is We Did It All for Don better than Rebecca? 1/True or 0/False.
+> 0
+Is Untitled Bonus Track better than Rebecca? 1/True or 0/False.
+> 1
+Is Baby, I'm an Anarchist! better than Rebecca? 1/True or 0/False.
+> 0
+Is Sink, Florida, Sink better than Rebecca? 1/True or 0/False.
+> 0
+Is Cavalier Eternal better than Rebecca? 1/True or 0/False.
+> 0
+Is Miami better than Rebecca? 1/True or 0/False.
+> 0
+Is Pretty Girls (The Mover) better than Rebecca? 1/True or 0/False.
+> 0
+Is Up the Cuts better than Rebecca? 1/True or 0/False.
+> 0
+Is White People for Peace better than Rebecca? 1/True or 0/False.
+> 0
+Is Stop! better than Rebecca? 1/True or 0/False.
+> 0
+Is Borne on the FM Waves of the Heart better than Rebecca? 1/True or 0/False.
+> 0
+Is White Crosses better than Rebecca? 1/True or 0/False.
+> 0
+Is Because of the Shame better than Rebecca? 1/True or 0/False.
+> 0
+Is Suffocation better than Rebecca? 1/True or 0/False.
+> 0
+Is We're Breaking Up better than Rebecca? 1/True or 0/False.
+> 0
+Is High Pressure Low better than Rebecca? 1/True or 0/False.
+> 0
+Is Ache With Me better than Rebecca? 1/True or 0/False.
+> 0
+Is Spanish Moss better than Rebecca? 1/True or 0/False.
+> 0
+Is Rapid Decompression better than Rebecca? 1/True or 0/False.
+> 0
+Is Bamboo Bones better than Rebecca? 1/True or 0/False.
+> 0
+Is Bitter Divisions better than Rebecca? 1/True or 0/False.
+> 0
+Is Transgender Dysphoria Blues better than Rebecca? 1/True or 0/False.
+> 0
+Is True Trans Soul Rebel better than Rebecca? 1/True or 0/False.
+> 0
+Is Unconditional Love better than Rebecca? 1/True or 0/False.
+> 0
+Is Drinking With the Jocks better than Rebecca? 1/True or 0/False.
+> 0
+Is Osama Bin Laden As the Crucified Christ better than Rebecca? 1/True or 0/False.
+> 1
+Is Fuckmylife666 better than Rebecca? 1/True or 0/False.
+> 0
+Is Dead Friend better than Rebecca? 1/True or 0/False.
+> 0
+Is Paralytic States better than Rebecca? 1/True or 0/False.
+> 0
+Is New Wave - Live better than Rebecca? 1/True or 0/False.
+> 0
+Is Delicate, Petite & Other Things I'll Never Be better than Rebecca? 1/True or 0/False.
+> 0
+Is Haunting, Haunted, Haunts better than Rebecca? 1/True or 0/False.
+> 0
+Is I Still Love You Julie better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 1
+Is What We Worked For better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 1
+Is Burn better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 1
+Is Jordan's First Choice better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 1
+Is Those Anarcho Punks Are Mysterious better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 1
+Is We Did It All for Don better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 1
+Is Baby, I'm an Anarchist! better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 1
+Is Sink, Florida, Sink better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 0
+Is Cavalier Eternal better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 1
+Is Miami better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 0
+Is Pretty Girls (The Mover) better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 0
+Is Up the Cuts better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 1
+Is White People for Peace better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 0
+Is Stop! better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 1
+Is Borne on the FM Waves of the Heart better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 1
+Is White Crosses better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 1
+Is Because of the Shame better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 1
+Is Suffocation better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 0
+Is We're Breaking Up better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 0
+Is High Pressure Low better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 1
+Is Ache With Me better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 1
+Is Spanish Moss better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 1
+Is Rapid Decompression better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 1
+Is Bamboo Bones better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 0
+Is Bitter Divisions better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 0
+Is Transgender Dysphoria Blues better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 1
+Is True Trans Soul Rebel better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 1
+Is Unconditional Love better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 0
+Is Drinking With the Jocks better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 1
+Is Fuckmylife666 better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 1
+Is Dead Friend better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 1
+Is Paralytic States better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 1
+Is New Wave - Live better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 1
+Is Delicate, Petite & Other Things I'll Never Be better than Haunting, Haunted, Haunts? 1/True or 0/False.
+> 1
+Is Sink, Florida, Sink better than Unconditional Love? 1/True or 0/False.
+> 0
+Is Miami better than Unconditional Love? 1/True or 0/False.
+> 1
+Is Pretty Girls (The Mover) better than Unconditional Love? 1/True or 0/False.
+> 0
+Is White People for Peace better than Unconditional Love? 1/True or 0/False.
+> 0
+Is Suffocation better than Unconditional Love? 1/True or 0/False.
+> 0
+Is We're Breaking Up better than Unconditional Love? 1/True or 0/False.
+> 0
+Is Bamboo Bones better than Unconditional Love? 1/True or 0/False.
+> 0
+Is Bitter Divisions better than Unconditional Love? 1/True or 0/False.
+> 1
+Is Sink, Florida, Sink better than Bamboo Bones? 1/True or 0/False.
+> 1
+Is Pretty Girls (The Mover) better than Bamboo Bones? 1/True or 0/False.
+> 1
+Is White People for Peace better than Bamboo Bones? 1/True or 0/False.
+> 0
+Is Suffocation better than Bamboo Bones? 1/True or 0/False.
+> 0
+Is We're Breaking Up better than Bamboo Bones? 1/True or 0/False.
+>
+Is We're Breaking Up better than Bamboo Bones? 1/True or 0/False.
+> 1
+Is White People for Peace better than Suffocation? 1/True or 0/False.
+> 0
+Is Sink, Florida, Sink better than We're Breaking Up? 1/True or 0/False.
+> 1
+Is Pretty Girls (The Mover) better than We're Breaking Up? 1/True or 0/False.
+> 1
+Is Sink, Florida, Sink better than Pretty Girls (The Mover)? 1/True or 0/False.
+> 1
+Is Miami better than Bitter Divisions? 1/True or 0/False.
+> 1
+Is I Still Love You Julie better than Delicate, Petite & Other Things I'll Never Be? 1/True or 0/False.
+> 1
+Is What We Worked For better than Delicate, Petite & Other Things I'll Never Be? 1/True or 0/False.
+> 1
+Is Burn better than Delicate, Petite & Other Things I'll Never Be? 1/True or 0/False.
+> 1
+Is Jordan's First Choice better than Delicate, Petite & Other Things I'll Never Be? 1/True or 0/False.
+> 1
+Is Those Anarcho Punks Are Mysterious better than Delicate, Petite & Other Things I'll Never Be? 1/True or 0/False.
+> 1
+Is We Did It All for Don better than Delicate, Petite & Other Things I'll Never Be? 1/True or 0/False.
+> 1
+Is Baby, I'm an Anarchist! better than Delicate, Petite & Other Things I'll Never Be? 1/True or 0/False.
+> 1
+Is Cavalier Eternal better than Delicate, Petite & Other Things I'll Never Be? 1/True or 0/False.
+> 1
+Is Up the Cuts better than Delicate, Petite & Other Things I'll Never Be? 1/True or 0/False.
+> 0
+Is Stop! better than Delicate, Petite & Other Things I'll Never Be? 1/True or 0/False.
+> 1
+Is Borne on the FM Waves of the Heart better than Delicate, Petite & Other Things I'll Never Be? 1/True or 0/False.
+> 1
+Is White Crosses better than Delicate, Petite & Other Things I'll Never Be? 1/True or 0/False.
+> 1
+Is Because of the Shame better than Delicate, Petite & Other Things I'll Never Be? 1/True or 0/False.
+> 1
+Is High Pressure Low better than Delicate, Petite & Other Things I'll Never Be? 1/True or 0/False.
+> 0
+Is Ache With Me better than Delicate, Petite & Other Things I'll Never Be? 1/True or 0/False.
+> 0
+Is Spanish Moss better than Delicate, Petite & Other Things I'll Never Be? 1/True or 0/False.
+> 0
+Is Rapid Decompression better than Delicate, Petite & Other Things I'll Never Be? 1/True or 0/False.
+> 0
+Is Transgender Dysphoria Blues better than Delicate, Petite & Other Things I'll Never Be? 1/True or 0/False.
+> 1
+Is True Trans Soul Rebel better than Delicate, Petite & Other Things I'll Never Be? 1/True or 0/False.
+> 1
+Is Drinking With the Jocks better than Delicate, Petite & Other Things I'll Never Be? 1/True or 0/False.
+> 0
+Is Fuckmylife666 better than Delicate, Petite & Other Things I'll Never Be? 1/True or 0/False.
+> 1
+Is Dead Friend better than Delicate, Petite & Other Things I'll Never Be? 1/True or 0/False.
+> 0
+Is Paralytic States better than Delicate, Petite & Other Things I'll Never Be? 1/True or 0/False.
+> 1
+Is New Wave - Live better than Delicate, Petite & Other Things I'll Never Be? 1/True or 0/False.
+> 1
+Is Up the Cuts better than Dead Friend? 1/True or 0/False.
+> 1
+Is High Pressure Low better than Dead Friend? 1/True or 0/False.
+> 1
+Is Ache With Me better than Dead Friend? 1/True or 0/False.
+> 1
+Is Spanish Moss better than Dead Friend? 1/True or 0/False.
+> 0
+Is Rapid Decompression better than Dead Friend? 1/True or 0/False.
+> 0
+Is Drinking With the Jocks better than Dead Friend? 1/True or 0/False.
+> 0
+Is Spanish Moss better than Drinking With the Jocks? 1/True or 0/False.
+> 1
+Is Rapid Decompression better than Drinking With the Jocks? 1/True or 0/False.
+> 1
+Is Spanish Moss better than Rapid Decompression? 1/True or 0/False.
+> 0
+Is Up the Cuts better than Ache With Me? 1/True or 0/False.
+> 0
+Is High Pressure Low better than Ache With Me? 1/True or 0/False.
+> 0
+Is Up the Cuts better than High Pressure Low? 1/True or 0/False.
+> 1
+Is I Still Love You Julie better than New Wave - Live? 1/True or 0/False.
+> 0
+Is What We Worked For better than New Wave - Live? 1/True or 0/False.
+> 1
+Is Burn better than New Wave - Live? 1/True or 0/False.
+> 1
+Is Jordan's First Choice better than New Wave - Live? 1/True or 0/False.
+> 0
+Is Those Anarcho Punks Are Mysterious better than New Wave - Live? 1/True or 0/False.
+> 1
+Is We Did It All for Don better than New Wave - Live? 1/True or 0/False.
+> 1
+Is Baby, I'm an Anarchist! better than New Wave - Live? 1/True or 0/False.
+> 1
+Is Cavalier Eternal better than New Wave - Live? 1/True or 0/False.
+> 1
+Is Stop! better than New Wave - Live? 1/True or 0/False.
+> 1
+Is Borne on the FM Waves of the Heart better than New Wave - Live? 1/True or 0/False.
+> 1
+Is White Crosses better than New Wave - Live? 1/True or 0/False.
+> 1
+Is Because of the Shame better than New Wave - Live? 1/True or 0/False.
+> 1
+Is Transgender Dysphoria Blues better than New Wave - Live? 1/True or 0/False.
+> 1
+Is True Trans Soul Rebel better than New Wave - Live? 1/True or 0/False.
+> 1
+Is Fuckmylife666 better than New Wave - Live? 1/True or 0/False.
+> 1
+Is Paralytic States better than New Wave - Live? 1/True or 0/False.
+> 1
+Is I Still Love You Julie better than Jordan's First Choice? 1/True or 0/False.
+> 0
+Is What We Worked For better than Paralytic States? 1/True or 0/False.
+> 1
+Is Burn better than Paralytic States? 1/True or 0/False.
+> 1
+Is Those Anarcho Punks Are Mysterious better than Paralytic States? 1/True or 0/False.
+> 0
+Is We Did It All for Don better than Paralytic States? 1/True or 0/False.
+> 0
+Is Baby, I'm an Anarchist! better than Paralytic States? 1/True or 0/False.
+> 0
+Is Cavalier Eternal better than Paralytic States? 1/True or 0/False.
+> 1
+Is Stop! better than Paralytic States? 1/True or 0/False.
+> 0
+Is Borne on the FM Waves of the Heart better than Paralytic States? 1/True or 0/False.
+> 0
+Is White Crosses better than Paralytic States? 1/True or 0/False.
+> 0
+Is Because of the Shame better than Paralytic States? 1/True or 0/False.
+> 0
+Is Transgender Dysphoria Blues better than Paralytic States? 1/True or 0/False.
+> 0
+Is True Trans Soul Rebel better than Paralytic States? 1/True or 0/False.
+> 0
+Is Fuckmylife666 better than Paralytic States? 1/True or 0/False.
+> 0
+Is Those Anarcho Punks Are Mysterious better than Fuckmylife666? 1/True or 0/False.
+> 0
+Is We Did It All for Don better than Fuckmylife666? 1/True or 0/False.
+> 1
+Is Baby, I'm an Anarchist! better than Fuckmylife666? 1/True or 0/False.
+> 0
+Is Stop! better than Fuckmylife666? 1/True or 0/False.
+> 0
+Is Borne on the FM Waves of the Heart better than Fuckmylife666? 1/True or 0/False.
+> 1
+Is White Crosses better than Fuckmylife666? 1/True or 0/False.
+> 0
+Is Because of the Shame better than Fuckmylife666? 1/True or 0/False.
+> 0
+Is Transgender Dysphoria Blues better than Fuckmylife666? 1/True or 0/False.
+> 1
+Is True Trans Soul Rebel better than Fuckmylife666? 1/True or 0/False.
+> 0
+Is Those Anarcho Punks Are Mysterious better than True Trans Soul Rebel? 1/True or 0/False.
+> 1
+Is Baby, I'm an Anarchist! better than True Trans Soul Rebel? 1/True or 0/False.
+> 0
+Is Stop! better than True Trans Soul Rebel? 1/True or 0/False.
+> 0
+Is White Crosses better than True Trans Soul Rebel? 1/True or 0/False.
+> 0
+Is Because of the Shame better than True Trans Soul Rebel? 1/True or 0/False.
+> 0
+Is Baby, I'm an Anarchist! better than Because of the Shame? 1/True or 0/False.
+> 1
+Is Stop! better than Because of the Shame? 1/True or 0/False.
+> 0
+Is White Crosses better than Because of the Shame? 1/True or 0/False.
+> 0
+Is Stop! better than White Crosses? 1/True or 0/False.
+> 0
+Is We Did It All for Don better than Transgender Dysphoria Blues? 1/True or 0/False.
+> 0
+Is Borne on the FM Waves of the Heart better than Transgender Dysphoria Blues? 1/True or 0/False.
+> 1
+Is What We Worked For better than Cavalier Eternal? 1/True or 0/False.
+> 0
+Is Burn better than Cavalier Eternal? 1/True or 0/False.
+> 0
+Is What We Worked For better than Burn? 1/True or 0/False.
+> 1
+Is Untitled Bonus Track better than Osama Bin Laden As the Crucified Christ? 1/True or 0/False.
+> 1
+Is The Ocean better than Walking Is Still Honest - Live? 1/True or 0/False.
+> 1
+Is I Was a Teenage Anarchist better than Walking Is Still Honest - Live? 1/True or 0/False.
+> 1
+Is Pints of Guinness Make You Strong - Live better than Walking Is Still Honest - Live? 1/True or 0/False.
+> 1
+Is The Ocean better than Pints of Guinness Make You Strong - Live? 1/True or 0/False.
+> 0
+Is I Was a Teenage Anarchist better than Pints of Guinness Make You Strong - Live? 1/True or 0/False.
+> 1
+Is Reinventing Axl Rose better than Black Me Out? 1/True or 0/False.
+> 0
+Is Pints of Guinness Make You Strong better than Black Me Out? 1/True or 0/False.
+> 1
+Is We Laugh at Danger (And Break All the Rules) better than Black Me Out? 1/True or 0/False.
+> 1
+Is Walking is Still Honest better than Black Me Out? 1/True or 0/False.
+> 1
+Is Thrash Unreal better than Black Me Out? 1/True or 0/False.
+> 1
+Is Pints of Guinness Make You Strong better than Thrash Unreal? 1/True or 0/False.
+> 0
+Is We Laugh at Danger (And Break All the Rules) better than Thrash Unreal? 1/True or 0/False.
+> 0
+Is Walking is Still Honest better than Thrash Unreal? 1/True or 0/False.
+> 0
+Is Pints of Guinness Make You Strong better than Walking is Still Honest? 1/True or 0/False.
+> 1
+Is We Laugh at Danger (And Break All the Rules) better than Walking is Still Honest? 1/True or 0/False.
+> 1
+Is Pints of Guinness Make You Strong better than We Laugh at Danger (And Break All the Rules)? 1/True or 0/False.
+> 0
+PS C:\Users\Jesse\python>
