@@ -1,4 +1,4 @@
-PS C:\Users\Jesse\python> python spotifySort.py
+PS C:\Users\x\python> python spotifySort.py
 Is I Still Love You Julie better than People Who Died? 1/True or 0/False.
 > 0
 Is What We Worked For better than People Who Died? 1/True or 0/False.
@@ -575,4 +575,4 @@ Is We Laugh at Danger (And Break All the Rules) better than Walking is Still Hon
 > 1
 Is Pints of Guinness Make You Strong better than We Laugh at Danger (And Break All the Rules)? 1/True or 0/False.
 > 0
-PS C:\Users\Jesse\python>
+PS C:\Users\x\python>
